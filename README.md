@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Faisen0
-- 👀 I’m interested in Gaming, YouTube and coding 
+- 👋 Hi, I’m @Farid Abdul
+- 👀 I’m interested in Cybersecurity and Network Principles
 - 🌱 I’m currently learning phython
-- 💞️ I’m looking to collaborate on nothing really, I'm still learning coding in high school 
+- 💞️ I’m looking to collaborate on automation projects currently 
 - 📫 How to reach me.. My discord Tag is faisen#9115
 
 <!---
